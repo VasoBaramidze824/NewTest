@@ -1,4 +1,4 @@
 
 class Car {
-    var name: String
+    var model: String
 }
